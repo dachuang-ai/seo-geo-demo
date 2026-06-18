@@ -1,0 +1,6 @@
+{
+  "name": "SEO / GEO 搜尋曝光 Demo",
+  "description": "達創智能科技 AI (Dachuang AI Technology) 的搜尋引流與 AI 搜尋曝光策略實驗室平台，展示 SEO、GEO 和地圖曝光資產增長系統。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
